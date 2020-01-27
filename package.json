@@ -1,0 +1,9 @@
+{
+  "name": "scrappy-doo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Kamikadze4GAME/scrappy-doo",
+  "author": "Kamikadze4GAME <osskrisha@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
